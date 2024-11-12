@@ -16,3 +16,7 @@ pip install -r requirements.txt
 ```
 py .\app.py
 ```
+
+# Result
+![image](https://github.com/user-attachments/assets/03d6465f-5e28-4025-a090-b827ea4f35d9)
+
